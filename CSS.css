@@ -1,0 +1,268 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;  
+}
+body{
+    font-family: 'Lato', sans-serif;  
+}
+/* start header div */
+.header-div{
+    background: rgba(229, 84, 115, 0.10);
+display:flex;
+padding:35px 150px 0px 150px;
+justify-content: space-between;
+
+}
+
+.header-div1{
+
+padding-top:150px;
+width:350px
+}
+.header-btn{
+    background-color: #E55473;
+    padding:10px 15px;
+    border:none;
+    margin-top:15px;
+    border-radius: 4px;
+    color:white;
+}
+.header-p{
+    margin-top:10px;
+}
+.header-h1{
+    font-size:43px;
+}
+/* end header section */
+/* start main section */
+/* statr featured flowers section */
+.feat{
+
+    padding-top:100px;
+    background-color: black;
+   
+}
+.feat-contain{
+    background:red;
+}
+
+.feat-div{
+background: #E55473;
+width:500px;
+text-align:center;
+margin:auto;
+
+}
+ .feat-div2{ 
+    display:flex;
+    width:900px;
+    height:350px;
+    margin:auto;
+    justify-content: space-around;
+    align-items:center ;
+}
+ .feat-div1{ 
+    background-color:rgba(167, 33, 98, 0.15) ;
+    width:250px;
+    height:240px;
+    margin-top:45px;
+    border-radius: 200px 200px 0px 0px;
+    border:1px dashed white;
+}
+.feat-div3{
+    background-color: rgb(192, 231, 231);
+    width:250px;
+    height:240px;
+    margin-top:45px;
+    border-radius: 200px 200px 0px 0px;
+    border:1px dashed white;
+
+}
+
+.feat-div4{
+    background-color:rgba(71, 125, 17, 0.15);
+    width:230px;
+    height:240px;
+    margin-top:45px;
+    border-radius: 200px 200px 0px 0px;
+    border:1px dashed white;
+}
+
+.feat-img{
+    height:180px;
+    margin:60px 30px 0px 50px;
+    
+}
+.feat-a{
+    margin-left:300px;
+}
+a{
+    margin-left:200px;
+    color:black;
+    font-size: 15px;
+}
+/* start same section */
+.same{
+    background-color:gold;
+    padding:100px 220px;
+}
+.same-div{
+    background-color: aqua;
+    width:880px;
+    height:350px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+/* end same section */
+/* hot deal section start */
+.hot{
+    background-color: rebeccapurple;
+}
+.hot-contain{
+    padding:90px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.hot-div1{
+    width:500px;
+    text-align: center;
+    background-color: blue;
+    height: 200px;
+}
+span{
+    color:#E55473;
+}
+.hot-p{
+    margin-top:17px;
+    font-size:15px;
+}
+.hot-btn{
+    background-color: #E55473;
+    border:none;
+    border-radius: 5px;
+    color:beige;
+    padding:9px 20px;
+    margin-top: 20px;
+}
+.hot-div2{
+    background-color: #E55473;
+}
+
+/* hot deal section end */
+/* insta gram section start */
+.instagrm{
+    background-color: rgb(31, 199, 73);
+}
+.instagrm-div{
+    width:500px;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+}
+.instagrm-div1{
+    background-color: blue;
+    width:1000px;
+    margin:auto;
+}
+.instagrm-div1 > img{
+    height:250px;
+    padding: 2px;
+    margin: 35px 15px;
+    
+}
+/* instagram section end */
+/* deal section start */
+.deal{
+    background-color: aqua;
+    height: 700px;
+    padding:160px;
+}
+.deal-container{
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+    width:1000px;
+    height:750px;
+    padding-top: 90px;
+    
+}
+.deal-div{
+    background-color: blueviolet;
+    width:400px;
+    text-align: center;
+    margin: auto;
+    
+}
+.deal-div2{
+    background-color: aqua;
+    width:800px;
+    text-align: center;
+    margin:50px auto;
+   
+}
+input{
+    width:520px;
+    height:40px;
+    border:1px solid rgb(216, 213, 213);
+    background-color: #FFF;
+}
+button{
+    background-color: #E55473;
+    width: 90px;
+    height:40px;
+    border: none;
+    border-radius: 8px;
+    color:wheat;
+}
+/* deal section end */
+/* footer start */
+.foot{
+    background-color: black;
+}
+.foot-div{
+    width:690px;
+    text-align: center;
+    padding:80px;
+    color:white;
+    margin: auto;
+
+}
+.foot-h2{
+    font-size:54px;
+}
+.foot-p{
+    margin-top: 20px;
+}
+
+.foot-sml{
+    margin-top: 20px; 
+    color:rgb(126, 126, 121);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .feat-img{
+    height:180px;
+    margin:60px 30px 0px 50px;
+    
+}
+.feat-a{
+    margin-left:300px;
+}
+a{
+    margin-left:200px;
+}
+ */

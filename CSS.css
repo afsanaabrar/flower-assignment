@@ -8,7 +8,7 @@ body{
 }
 /* start header div */
 .header-div{
-    background: rgba(229, 84, 115, 0.10);
+background: rgba(229, 84, 115, 0.10);
 display:flex;
 height:650px;
 padding:35px 150px 0px 150px;
@@ -44,13 +44,10 @@ width:350px
 .feat{
     padding-top:100px;
  }
-
-
 .feat-div{
     width:500px;
     text-align:center;
     margin:auto;
-    
     }
 .comon-p{
     margin-top:10px;
@@ -237,7 +234,6 @@ button{
 .foot-p{
     margin-top: 20px;
 }
-
 .foot-sml{
     color:rgb(126, 126, 121);
 }
